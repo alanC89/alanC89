@@ -1,6 +1,8 @@
 ## Hi there! 👋
 
-I'm Alan, a Senior Software Engineer at theScore Bet. Building Distributed Systems that power Sports Betting at scale. I'm passionate about crafting reliable Backend applications and solving the complex challenges that come with developing Distributed Systems.
+I'm Alan, a Senior Software Engineer at theScore Bet. 
+
+Building Distributed Systems that power Sports Betting at scale. I'm passionate about crafting reliable Backend applications and solving the complex challenges that come with developing Distributed Systems.
 
 ### 🎯 What I'm Working On
 
