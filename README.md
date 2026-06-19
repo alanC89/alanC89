@@ -1,25 +1,34 @@
-## Hi there! 👋
+### Working on real-time Voice systems powering AI agents at [Ada](https://github.com/AdaSupport).
 
-I'm Alan, a Senior Software Engineer at theScore Bet. 
+On the Voice team at Ada, I'm helping build the platform powering Ada's automated
+customer experience (ACX) transformation. Delivering a Voice experience with
+ever-improving latency — streaming speech-to-text and text-to-speech, handling
+interruptions, noise filtering, and more.
 
-Building Distributed Systems that power Sports Betting at scale. I'm passionate about crafting reliable Backend applications and solving the complex challenges that come with developing Distributed Systems.
+---
 
-### 🎯 What I'm Working On
+#### 🛠️ What I work on
 
-I have been working on building out two key systems at theScore Bet using **Elixir, Phoenix, and PostgreSQL**:
+- **Real-time latency** — voice is unforgiving; the first few seconds decide whether
+  a call feels responsive or broken. Much of the work is measuring and shaving the
+  round trip from caller to response.
+- **Distributed systems** — keeping call state coherent across a cluster, with
+  reliable routing and graceful fallbacks.
+- **The voice experience** — streaming STT/TTS, interruption handling, noise
+  filtering, and call transfers, all under a real-time clock.
 
-**Promotions Engine** - Managing the complete lifecycle of promotions across the platform, from creation and user visibility to redemption and tracking. Handling complex business rules and ensuring promotions are delivered reliably at scale.
+Before Ada, I built distributed sports-betting systems in **Elixir/Phoenix** at
+theScore Bet, built out the autos vertical at Kijiji, and worked on the first
+iteration of the Ericsson Network Manager — the last two in **Java**.
 
-**Retail Betting Platform** - Powering betting kiosks in casinos, building systems that need to be robust, responsive, and handle real-time transactions in a distributed environment.
+---
 
-Both projects involve designing distributed systems that communicate via **gRPC**, integrate with **Kafka** for event streaming, and require careful attention to data consistency and performance.
+#### 🧰 Tech Stack
 
-### 🛠️ Tech Stack
-
-**Languages:** Elixir, Java, JavaScript, SQL
-
-**Techs & Libraries:** Phoenix, Ecto, gRPC/Protobufs, REST APIs, PostgreSQL, Kafka
-
-**Tools & Platform:** Git, GitHub, Google Cloud, DataDog, Grafana, CircleCI, LaunchDarkly
-
-**AI Tools:** GitHub Copilot, Claude, Claude Code
+| | |
+|---|---|
+| **Languages** | Python, Elixir, Java, JavaScript, SQL |
+| **Backend & Data** | Flask, gevent, Phoenix, Ecto, PostgreSQL, Redis, Kafka, WebSockets, gRPC/Protobufs, REST |
+| **Voice infra** | Twilio, Deepgram, ElevenLabs |
+| **Platform & Tooling** | AWS, Google Cloud, Datadog, Grafana, LaunchDarkly, Doppler, Sentry, CircleCI, Git/GitHub |
+| **AI Tools** | Claude, Claude Code, GitHub Copilot |
