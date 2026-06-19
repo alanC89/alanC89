@@ -1,4 +1,4 @@
-### 🎙️🤖 Working on real-time Voice systems powering AI agents at [Ada](https://github.com/AdaSupport).
+### 🎙️🤖 Real-time Voice systems powering AI agents at [Ada](https://github.com/AdaSupport).
 
 On the Voice team at Ada, I'm helping build the platform powering Ada's automated
 customer experience (ACX) transformation. Delivering a Voice experience with
@@ -7,7 +7,7 @@ interruptions, noise filtering, and more.
 
 ---
 
-#### 🛠️ What I work on
+### 🛠️ What I work on
 
 - **Real-time latency** — voice is unforgiving; the first few seconds decide whether
   a call feels responsive or broken. Much of the work is measuring and shaving the
@@ -23,7 +23,7 @@ iteration of the Ericsson Network Manager — the last two in **Java**.
 
 ---
 
-#### 🧰 Tech Stack
+### 🧰 Tech Stack
 
 | | |
 |---|---|
