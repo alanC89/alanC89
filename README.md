@@ -1,4 +1,4 @@
-### Working on real-time Voice systems powering AI agents at [Ada](https://github.com/AdaSupport).
+### 🎙️🤖 Working on real-time Voice systems powering AI agents at [Ada](https://github.com/AdaSupport).
 
 On the Voice team at Ada, I'm helping build the platform powering Ada's automated
 customer experience (ACX) transformation. Delivering a Voice experience with
